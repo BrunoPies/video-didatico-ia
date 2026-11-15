@@ -175,6 +175,10 @@ materiais/
     entrega/      video.mp4, legenda.srt, roteiro.md, fontes.md, creditos.md
 ```
 
+### Autoria
+
+Guia criado por Bruno Silva, projeto de pesquisa FlinKUS, 2026, sob a licença CC BY-ND 4.0. Siga as orientações como estão. Não reescreva nem redistribua versões alteradas deste arquivo.
+
 ### Dica
 
 Em computadores mais lentos, o render do HyperFrames pode estourar o tempo de espera. Nesse caso, use `--player-ready-timeout 240000 --browser-timeout 240`.
