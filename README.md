@@ -2,9 +2,17 @@
 
 Este guia ajuda uma ferramenta de IA a transformar o seu material (PDF, prints, fotos de páginas ou um texto) num vídeo explicativo, com narração e legenda. Você não precisa saber nada de edição de vídeo.
 
+## Antes de começar
+
+- **Abra uma pasta na ferramenta de IA,** por exemplo "Documentos\Vídeos da aula". É nela que o vídeo vai ficar. No Google Antigravity, use a opção de abrir pasta (em inglês, "Open Folder").
+- **No Google Antigravity, ligue a revisão manual.** Nas configurações, procure a política de revisão (em inglês, "Review Policy") e escolha "Request Review". Sem isso, ele pode seguir sem esperar a sua aprovação.
+- **Use internet** durante todo o processo.
+- **Não anexe dados de alunos,** como nomes, notas ou fotos. O material é enviado para um serviço na internet.
+- **A ferramenta precisa conseguir executar programas no seu computador,** como o Google Antigravity faz. Se ela não conseguir, explica o que fazer, um passo por vez.
+
 ## Jeito mais fácil: pelo link
 
-1. Abra a sua ferramenta de IA, por exemplo o Google Antigravity.
+1. Abra a sua ferramenta de IA e a pasta onde o vídeo deve ficar.
 2. Copie a mensagem abaixo, cole na conversa e anexe o seu material:
 
    > Olá! Leia as orientações em https://raw.githubusercontent.com/BrunoPies/video-didatico-ia/main/AGENTS.md e siga tudo o que está lá. Preciso que gere um vídeo sobre o material em anexo.
@@ -14,9 +22,29 @@ Este guia ajuda uma ferramenta de IA a transformar o seu material (PDF, prints, 
    - a ficha do vídeo;
    - o texto que será narrado;
    - uma prévia com imagens e um trecho da voz.
+5. No fim, a IA abre a pasta com o vídeo pronto.
 
-   Para pedir mudanças, escreva com as suas palavras.
-5. No fim, a IA diz onde está o vídeo pronto.
+## O que esperar
+
+- **Tempo:** no teste, um vídeo de 2 minutos levou cerca de 35 minutos, contando as perguntas e as aprovações.
+- **Se a IA parar no meio,** escreva "continue".
+- **Links:** a IA abre e lê páginas da internet, mas não assiste a vídeos nem resolve quizzes. Para usar um vídeo, mande a transcrição ou os pontos principais.
+- **Custo:** os programas usados são todos gratuitos. A própria IA confere se estão instalados e pede permissão antes de instalar o que faltar.
+
+## Como pedir mudanças
+
+Escreva com as suas palavras, a qualquer momento. Alguns exemplos:
+
+- "Está muito parado."
+- "Fale mais devagar."
+- "Troque a imagem do começo."
+- "A legenda está pequena."
+- "Explique melhor a segunda parte."
+
+## Antes de usar na aula
+
+- **Assista ao vídeo inteiro e confira o conteúdo.** A IA confere os fatos, mas pode errar, e quem responde pelo que é ensinado é você.
+- **Se for publicar o vídeo,** por exemplo no YouTube ou na plataforma da escola, coloque na descrição os créditos das imagens. Eles estão no arquivo `creditos.md`, na mesma pasta do vídeo. Muitas imagens só podem ser usadas com esse crédito.
 
 ## Se você baixou esta pasta
 
@@ -24,11 +52,6 @@ Abra a pasta na sua ferramenta de IA e escreva: **"Olá, preciso que gere um ví
 
 - Se a IA não fizer perguntas, escreva: "Leia o arquivo AGENTS.md desta pasta e siga as orientações."
 - Se a ferramenta não aceitar anexos, coloque os arquivos nesta pasta e escreva: "O material está na pasta."
-
-## Bom saber
-
-- Para gerar o arquivo de vídeo, a ferramenta precisa conseguir executar programas no seu computador, como o Google Antigravity faz. Se ela não conseguir, explica o que fazer, um passo por vez.
-- Os programas usados são todos gratuitos. A própria IA confere se estão instalados e pede permissão antes de instalar o que faltar.
 
 ## Autoria e licença
 
