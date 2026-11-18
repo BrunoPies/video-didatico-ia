@@ -55,6 +55,6 @@ Abra a pasta na sua ferramenta de IA e escreva: **"Olá, preciso que gere um ví
 
 ## Autoria e licença
 
-Autoria: Bruno Silva, projeto de pesquisa FlinKUS, 2026.
+Autoria: Bruno Silva, 2026.
 
 Este guia está sob a licença [Creative Commons Atribuição-SemDerivações 4.0 Internacional (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/deed.pt-br). Você pode usar e compartilhar o guia, desde que cite a autoria e não altere o conteúdo. Não é permitido distribuir versões modificadas.
